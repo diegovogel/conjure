@@ -1,12 +1,17 @@
 # Conjure
 
-Conjure a little side project for exploring a practical use for AI image generation.
+> 🚧 This is a work in progress.
 
-## Planned Features
+Conjure is a little side project for exploring a practical use for AI image generation. The idea is you generate an image, pick a product to put it on, and have it shipped to you. It's image generation + print on demand.
 
-- [ ] Generate an image by giving it a simple prompt and selecting a style.
-- [ ] Select a product to put your image on.
-- [ ] Buy the product and have it shipped to your home.
+## Planned Stack
+
+- Deno
+- Vue
+- OpenAI API
+- Cloudflare Pages or Workers
+- Stripe
+- Printful
 
 ## Goals
 
